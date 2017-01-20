@@ -43,7 +43,7 @@
                 android:layout_height="wrap_content"
                 android:id="@+id/btnexit"
                 android:layout_weight="1"
-                android:onClick="ExitClick (MainActivity)" />
+                android:onClick="ExitClick"/>
         </LinearLayout>
 
         <ImageView
